@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mononoken
-- 👀 I’m interested in storytelling in all forms of media and tools that we can use to enhance storytelling. I am also interested in how the human brain works, especiaily in regards to aquiring and storing knowledge.
-- 🌱 I’m currently learning HTML and CSS from The Odin Project. I also have worked on Python a small amount and have made a few personal projects with it.
+- 👀 I recently traveled and camped for most of 2022 from Texas to Washington. I stopped at most of the National Parks and some state parks on the way. I enjoy rock climbing, hiking, and storytelling in all forms of media. Some things I am consuming right now that I enjoy are The Expanse (TV), Hades (game), and Don Quixote (book).
+- 🌱 I’m currently learning Ruby via The Odin Project. I also have worked with Python a small amount.
 - 💞️ I’m looking to collaborate on learning! 
 - 📫 How to reach me ...
 
