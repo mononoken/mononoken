@@ -37,6 +37,10 @@ Hi, I'm Ken! I'm from Dallas, Texas, now in Seattle, Washington, and I am a self
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </a>
 
+<a href="https://neovim.io/">
+  <img src="https://img.shields.io/badge/Neovim-4f9946?style=for-the-badge&logo=neovim&logoColor=white" />
+</a>
+
 ## Getting in touch
 
 <a href="mailto:mail@feelsufo.com">
