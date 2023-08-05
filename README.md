@@ -5,7 +5,11 @@
 --->
 
 ## About Me 
-Hi, I'm Ken! I was born in Dallas, Texas, now reside in Seattle, Washington, and I am a self-taught developer. I started off dabbling in Python while working as a Structural Engineer that specialized in steel connection design, stair design, and truss design. In 2021, I decided to commit to [The Odin Project](https://www.theodinproject.com) and learn full-stack web development. I love being outside, hiking, rock climbing, running, reading, and tea. Feel free to follow or reach out. 
+Hi, I'm Ken! I was born in Dallas, Texas, now reside in Seattle, Washington, and I am a full stack developer. I started off dabbling in Python while working as a Structural Engineer that specialized in steel connection design, stair design, and truss design. In 2021, I decided to commit to [The Odin Project](https://www.theodinproject.com) and learn full-stack web development.
+
+I am currently working on [Ruby Scribe](https://github.com/mononoken/ruby-scribe), a note-taking app designed for tabletop RPG players.
+
+I love being outside, hiking, rock climbing, running, reading, board games, and tea. Feel free to follow or reach out. 
 
 ## My Tech Stack
 
