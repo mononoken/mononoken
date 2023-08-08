@@ -46,7 +46,7 @@ I love being outside, hiking, rock climbing, running, reading, board games, and 
 </a>
 
 <a href="https://www.postgresql.org/">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgressql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </a>
 
 <a href="https://neovim.io/">
