@@ -9,7 +9,7 @@ Hi, I'm Ken! I was born in Dallas, Texas, now reside in Seattle, Washington, and
 
 I am currently working on [Ruby Scribe](https://github.com/mononoken/ruby-scribe), a note-taking app designed for tabletop RPG players.
 
-I love being outside, hiking, rock climbing, running, reading, board games, and tea. Feel free to follow or reach out. 
+I love being outside, [hiking]((https://www.alltrails.com/trail/us/california/upper-yosemite-falls-trail)), [rock climbing](https://www.mountainproject.com/area/106132808/buttermilks-main), running, reading, [board games]((https://www.mountainproject.com/area/106132808/buttermilks-main)), and tea. Feel free to follow or reach out. 
 
 ## My Tech Stack
 
