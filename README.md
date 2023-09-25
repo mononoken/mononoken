@@ -7,7 +7,7 @@
 ## About Me 
 Hi, I'm Ken! I was born in Dallas, Texas, now reside in Seattle, Washington, and I am a full stack developer. I started off dabbling in Python while working as a Structural Engineer that specialized in steel connection design, stair design, and truss design. In 2021, I decided to commit to [The Odin Project](https://www.theodinproject.com) and learn full-stack web development.
 
-I am currently working on [Ruby Scribe](https://github.com/mononoken/ruby-scribe), a note-taking app designed for tabletop RPG players.
+I am currently working on [Fae Scribe](https://github.com/mononoken/fae-scribe), a note-taking app designed for tabletop RPG players.
 
 I love being outside, [hiking](https://www.alltrails.com/trail/us/california/upper-yosemite-falls-trail), [rock climbing](https://www.mountainproject.com/area/106132808/buttermilks-main), running, reading, [board games](https://www.direwolfdigital.com/dune-imperium/), and tea. Feel free to follow or reach out. 
 
