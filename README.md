@@ -1,13 +1,14 @@
-<!---
 ## My portfolio
-🖥 <a href="">My portfolio website</a> <br />
-🤝🏻 <a href="">My LinkedIn profile</a>
---->
+🖥 <a href="https://mononoken.github.io/">My portfolio website</a> <br />
+🤝🏻 <a href="https://www.linkedin.com/in/ken-maeshima-6625a0278/">My LinkedIn profile</a> 
 
 ## About Me 
 Hi, I'm Ken! I was born in Dallas, Texas, now reside in Seattle, Washington, and I am a full stack developer. I started off dabbling in Python while working as a Structural Engineer that specialized in steel connection design, stair design, and truss design. In 2021, I decided to commit to [The Odin Project](https://www.theodinproject.com) and learn full-stack web development.
 
-I am currently working on [Fae Scribe](https://github.com/mononoken/fae-scribe), a note-taking app designed for tabletop RPG players.
+I am currently working on:
+- [Fae Scribe](https://github.com/mononoken/fae-scribe), a note-taking app designed for tabletop RPG players.
+- [rubyforgood/pet-rescue](https://github.com/rubyforgood/pet-rescue)
+- Learning Rust with [The Rust Book](https://doc.rust-lang.org/stable/book/)
 
 I love being outside, [hiking](https://www.alltrails.com/trail/us/california/upper-yosemite-falls-trail), [rock climbing](https://www.mountainproject.com/area/106132808/buttermilks-main), running, reading, [board games](https://www.direwolfdigital.com/dune-imperium/), and tea. Feel free to follow or reach out. 
 
