@@ -26,21 +26,17 @@ I love being outside, [hiking](https://www.alltrails.com/trail/us/california/upp
   <img src="https://img.shields.io/badge/RSpec-E9573F?style=for-the-badge&logo=rubygems&logoColor=white" />
 </a>
 
-<!---
 <a href="https://www.typescriptlang.org/">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </a>
---->
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </a>
 
-<!---
 <a href="https://tailwindcss.com/">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </a>
---->
 
 <a href="https://sass-lang.com/">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
