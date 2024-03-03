@@ -22,6 +22,10 @@ I love being outside, [hiking](https://www.alltrails.com/trail/us/california/upp
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
 </a>
 
+<a href="https://github.com/minitest/minitest/">
+  <img src="https://img.shields.io/badge/minitest-E9573F?style=for-the-badge&logo=rubygems&logoColor=white" />
+</a>
+
 <a href="https://rspec.info/">
   <img src="https://img.shields.io/badge/RSpec-E9573F?style=for-the-badge&logo=rubygems&logoColor=white" />
 </a>
