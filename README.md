@@ -10,7 +10,7 @@ Some things I'm currently into are: Contributing to open-source (check-out [ruby
 I formerly worked as a licensed structural engineer for <nobr>8 years</nobr>. After deciding to pursue a career in software engineering instead, I completed the <nobr>full-stack</nobr> curriculum by [The Odin Project](https://www.theodinproject.com). I did a large part of the curriculum while taking an <nobr>8 month</nobr> road trip with my wife, visiting 22 National Parks from Texas to Washington.
 
 ## I am currently working on:
-- [rubyforgood/pet-rescue](https://github.com/rubyforgood/pet-rescue), an open-source project for matching pets with adopters
+- [rubyforgood/pet-rescue](https://github.com/rubyforgood/pet-rescue), an open-source project for matching pets with adopters (proud of [my authz pr](https://github.com/rubyforgood/pet-rescue/pull/466))
 - [Fae Scribe](https://github.com/mononoken/fae-scribe), a note-taking app designed for tabletop RPG players.
 - Reading [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
 
