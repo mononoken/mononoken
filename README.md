@@ -1,4 +1,4 @@
-# Hi! I'm Ken Maeshima. I reside in Seattle, WA.
+# Hi! I'm Ken Maeshima.
 
 ## My portfolio
 🖥 <a href="https://mononoken.github.io/">My portfolio website</a> <br />
@@ -7,7 +7,7 @@
 ## About Me 
 Some things I'm currently into are: Contributing to open-source (check-out [rubyforgood/pet-rescue](https://github.com/rubyforgood/pet-rescue)!), meeting people that code (local meetups and confs), reading [fiction](https://en.wikipedia.org/wiki/The_Trial) and [code books](https://100go.co/book/), <nobr>re-rewatching</nobr> [The Expanse](<https://en.wikipedia.org/wiki/The_Expanse_(TV_series)>), getting fresh air, playing [Dune Imperium](https://www.direwolfdigital.com/dune-imperium/), tinkering with my [Spintronics](https://upperstory.com/spintronics/) circuits, and working on my personal projects (right now it's [Fae Scribe](https://github.com/mononoken/fae-scribe)).
 
-I formerly worked as a licensed structural engineer for <nobr>8 years</nobr>. After deciding to pursue a career in software engineering instead, I completed the <nobr>full-stack</nobr> curriculum by [The Odin Project](https://www.theodinproject.com). I did a large part of the curriculum while taking an <nobr>8 month</nobr> road trip with my wife, visiting 22 National Parks from Texas to Washington. I have continued making projects, exploring more technologies, and looking for interesting opportunities to contribute to collaborative work. 
+I formerly worked as a licensed structural engineer for <nobr>8 years</nobr>. After deciding to pursue a career in software engineering instead, I completed the <nobr>full-stack</nobr> curriculum by [The Odin Project](https://www.theodinproject.com). I worked on part of the curriculum while taking an <nobr>8 month</nobr> road trip with my wife, visiting 22 National Parks from Texas to Washington. I have continued making projects, exploring more technologies, and looking for interesting opportunities to contribute to collaborative work. 
 
 ## I am currently working on:
 - [rubyforgood/pet-rescue](https://github.com/rubyforgood/pet-rescue), an open-source project for matching pets with adopters (proud of [my authz pr](https://github.com/rubyforgood/pet-rescue/pull/466))
@@ -57,6 +57,7 @@ I formerly worked as a licensed structural engineer for <nobr>8 years</nobr>. Af
 </a>
 
 ## Getting in touch
+*Actionable criticsm and advice is always welcome.*
 
 <a href="mailto:mail@feelsufo.com">
   <img src="https://img.shields.io/badge/Email-6d4aff?style=for-the-badge&logo=protonmail&logoColor=white" />
