@@ -57,7 +57,7 @@ I formerly worked as a licensed structural engineer for <nobr>8 years</nobr>. Af
 </a>
 
 ## Getting in touch
-*Actionable criticsm and advice is always welcome.*
+*Actionable criticism and advice is always welcome.*
 
 <a href="mailto:mail@feelsufo.com">
   <img src="https://img.shields.io/badge/Email-6d4aff?style=for-the-badge&logo=protonmail&logoColor=white" />
