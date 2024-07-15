@@ -4,15 +4,14 @@
 🖥 <a href="https://mononoken.github.io/">My portfolio website</a> <br />
 🤝🏻 <a href="https://www.linkedin.com/in/ken-maeshima-6625a0278/">My LinkedIn profile</a> 
 
-## About Me 
-Some things I'm currently into are: Contributing to open-source (check-out [rubyforgood/pet-rescue](https://github.com/rubyforgood/pet-rescue)!), meeting people that code (local meetups and confs), reading [fiction](https://en.wikipedia.org/wiki/The_Trial) and [code books](https://100go.co/book/), <nobr>re-rewatching</nobr> [The Expanse](<https://en.wikipedia.org/wiki/The_Expanse_(TV_series)>), getting fresh air, playing [Dune Imperium](https://www.direwolfdigital.com/dune-imperium/), tinkering with my [Spintronics](https://upperstory.com/spintronics/) circuits, and working on my personal projects (right now it's [Fae Scribe](https://github.com/mononoken/fae-scribe)).
+## About Me
+I am a web developer that has worked mostly with Ruby, JavaScript, and TypeScript. I have built many projects with Ruby on Rails, and this year I started building some with React and TypeScript too. In January, I started volunteering with Ruby for Good on their projects [Pet Rescue](https://github.com/rubyforgood/pet-rescue) and CASA. My passion projects are ones that I can use for D&D such as [Fae Scribe](https://github.com/mononoken/fae-scribe).
 
-I formerly worked as a licensed structural engineer for <nobr>8 years</nobr>. After deciding to pursue a career in software engineering instead, I completed the <nobr>full-stack</nobr> curriculum by [The Odin Project](https://www.theodinproject.com). I worked on part of the curriculum while taking an <nobr>8 month</nobr> road trip with my wife, visiting 22 National Parks from Texas to Washington. I have continued making projects, exploring more technologies, and looking for interesting opportunities to contribute to collaborative work. 
+In 2021, I began working through The Odin Project, an open-source curriculum on web development. I completed the Ruby on Rails track in 2023. Through 2022, I worked on parts of it offline at campgrounds while my wife and I road tripped across the west coast. We hiked, camped, and visited 22 national parks. 
 
-## I am currently working on:
-- [rubyforgood/pet-rescue](https://github.com/rubyforgood/pet-rescue), an open-source project for matching pets with adopters (proud of [my authz pr](https://github.com/rubyforgood/pet-rescue/pull/466))
-- [Fae Scribe](https://github.com/mononoken/fae-scribe), a note-taking app designed for tabletop RPG players.
-- Reading [100 Go Mistakes and How to Avoid Them](https://100go.co/book/)
+The first time I looked at HTML and CSS was in middle school building a Xanga blog (similar to Myspace). Hit me up if you remember stealing CSS from sites for your Xanga.
+
+School led me to love physics and architecture, so I pursued a career in structural engineering for 8 years. I worked on schools, hospitals, stadiums, conference centers, and a [lazy river in the shape of Texas](https://www.google.com/search?sca_esv=77a85095fdc7709e&sca_upv=1&hl=en&sxsrf=ADLYWILg9-XEdV6CPlOt6pHAEP8uk02Pfw:1721019135077&q=houston+marriott+lazy+river&udm=2&fbs=AEQNm0AVbySjNxIXoj6bNaq7uSpwmIS0gJlXN_LWYh5RkW9UG_J2iT2scTJ59gCgVXw95w8MWk7XV8_BwFt7q7sBx8JbQSPuVurjBFYo2n1h42riXchp8nIxOnIQ1esYaY_n2R-2rAQSXCAUyqKVcz8kjmrcwDlgL_QX1Vtx3WeVJU7HMK6CvwlOGbgtUoJyy7Zy5Xjbu0I0vlpU9acEg7sDzk-OGKuJ7w&sa=X&ved=2ahUKEwiOr8rxn6iHAxVNwOYEHaxwDFsQtKgLegQIDBAB&biw=1025&bih=892&dpr=2).
 
 ## My Tech Stack
 
@@ -38,6 +37,10 @@ I formerly worked as a licensed structural engineer for <nobr>8 years</nobr>. Af
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</a>
+
+<a href="https://react.dev/">
+  <img src="https://img.shields.io/badge/react-23272f.svg?style=for-the-badge&logo=react&logoColor=#58c4dc" />
 </a>
 
 <a href="https://tailwindcss.com/">
