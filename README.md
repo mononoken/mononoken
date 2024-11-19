@@ -1,54 +1,36 @@
 # Hi! I'm Ken Maeshima.
 
 ## My portfolio
-🖥 <a href="https://mononoken.github.io/">My portfolio website</a> <br />
-🤝🏻 <a href="https://www.linkedin.com/in/ken-maeshima-6625a0278/">My LinkedIn profile</a> 
+🖥 <a href="https://feelsufo.com">My portfolio website</a> <br />
+🤝🏻 <a href="https://www.linkedin.com/in/kenmaeshima">My LinkedIn profile</a> 
 
 ## About Me
-I am a web developer that has worked mostly with Ruby, JavaScript, and TypeScript. I have built many projects with Ruby on Rails, and this year I started building some with React and TypeScript too. In January, I started volunteering with Ruby for Good on their projects [Pet Rescue](https://github.com/rubyforgood/pet-rescue) and CASA. My passion projects are ones that I can use for D&D such as [Fae Scribe](https://github.com/mononoken/fae-scribe).
+I am a web developer that enjoys Ruby and JavaScript. I currently work at [DeepCast](https://deepcast.fm) as a full stack developer. I am also a lead on the developer team for [Homeward Tails](https://github.com/rubyforgood/homeward-tails) with [Ruby for Good](https://rubyforgood.org/).
 
-In 2021, I began working through The Odin Project, an open-source curriculum on web development. I completed the Ruby on Rails track in 2023. Through 2022, I worked on parts of it offline at campgrounds while my wife and I road tripped across the west coast. We hiked, camped, and visited 22 national parks. 
+In 2021, I began working through The Odin Project curriculum while working as a structural engineer. I continued through parts of it while hiking and camping through 22 national parks in 2022 using offline access to documentation and [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Database_download). I completed the Ruby on Rails track in 2023, followed shortly by the React track.
 
-The first time I looked at HTML and CSS was in middle school building a Xanga blog (similar to Myspace). Hit me up if you remember stealing CSS from sites for your Xanga.
-
-School led me to love physics and architecture, so I pursued a career in structural engineering for 8 years. I worked on schools, hospitals, stadiums, conference centers, and a [lazy river in the shape of Texas](https://www.google.com/search?sca_esv=77a85095fdc7709e&sca_upv=1&hl=en&sxsrf=ADLYWILg9-XEdV6CPlOt6pHAEP8uk02Pfw:1721019135077&q=houston+marriott+lazy+river&udm=2&fbs=AEQNm0AVbySjNxIXoj6bNaq7uSpwmIS0gJlXN_LWYh5RkW9UG_J2iT2scTJ59gCgVXw95w8MWk7XV8_BwFt7q7sBx8JbQSPuVurjBFYo2n1h42riXchp8nIxOnIQ1esYaY_n2R-2rAQSXCAUyqKVcz8kjmrcwDlgL_QX1Vtx3WeVJU7HMK6CvwlOGbgtUoJyy7Zy5Xjbu0I0vlpU9acEg7sDzk-OGKuJ7w&sa=X&ved=2ahUKEwiOr8rxn6iHAxVNwOYEHaxwDFsQtKgLegQIDBAB&biw=1025&bih=892&dpr=2).
+School led me to love physics and architecture, so I previously pursued a career in structural engineering for 8 years. I designed hundreds of stairs, performed erection analysis on a couple stadiums, and designed steel connections for schools, hospitals, and conference centers throughout the country. 
 
 ## My Tech Stack
-
-<a href="https://rubyonrails.org/">
-  <img src="https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white" />
-</a>
 
 <a href="https://www.ruby-lang.org/">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
 </a>
 
-<a href="https://github.com/minitest/minitest/">
-  <img src="https://img.shields.io/badge/minitest-E9573F?style=for-the-badge&logo=rubygems&logoColor=white" />
-</a>
-
-<a href="https://rspec.info/">
-  <img src="https://img.shields.io/badge/RSpec-E9573F?style=for-the-badge&logo=rubygems&logoColor=white" />
-</a>
-
-<a href="https://www.typescriptlang.org/">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<a href="https://rubyonrails.org/">
+  <img src="https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white" />
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </a>
 
+<a href="https://www.typescriptlang.org/">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</a>
+
 <a href="https://react.dev/">
   <img src="https://img.shields.io/badge/react-23272f.svg?style=for-the-badge&logo=react&logoColor=#58c4dc" />
-</a>
-
-<a href="https://tailwindcss.com/">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</a>
-
-<a href="https://sass-lang.com/">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </a>
 
 <a href="https://www.postgresql.org/">
